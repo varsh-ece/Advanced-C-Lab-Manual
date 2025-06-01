@@ -108,7 +108,8 @@ Use scanf to input the file name into the name array.
  
 ## Program:
 ~~~
-#include <stdio.h> int main()
+#include <stdio.h>
+ int main()
 {
  FILE *p;
  char name[30]; scanf("%s",name);
@@ -170,6 +171,7 @@ int main()
 
 ## Result:
 Thus, the program is verified successfully
+
 
 
 

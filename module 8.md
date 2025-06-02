@@ -1,4 +1,6 @@
 ## EXP NO 2A : C PROGRAM PRINT THE LOWERCASE ENGLISH WORD CORRESPONDING TO THE NUMBER
+## NAME: VARSHINI M
+## REG NO: 212224060293
 
 ## Aim:
 To write a C program print the lowercase English word corresponding to the number
